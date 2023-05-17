@@ -3,7 +3,7 @@ import streamlit as st
 from streamlit_chat import message
  
 
-openai.api_key = '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'
+openai.api_key = ''
  
 
 ## OpenAI API로 프롬프트를 받아들이고 응답을 생성한다.
